@@ -1,0 +1,32 @@
+﻿doctype html
+html
+  head
+    script(type='text/javascript', src='https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js')
+
+    title
+  body
+    script.
+      var socket = io.connect('http://localhost:3001/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWRtaW4iLCJpZCI6NiwiclRva2VuIjoiNDUzNzUzNDljOWU0OWJmYWY4YzUyMGE5ZDJkNDViMmYiLCJpYXQiOjE1NTE1MjIxNjEsImV4cCI6MTU1MTYwODU2MX0.P-h_9R_LtjDR8lsDG_i4Y0XJtqOKRQ2K1X_vAc7uK5U');
+      socket.on('message', function (data) {
+        console.log(data);
+        socket.emit('mes', { my: 'hey' });
+      });
+      socket.emit('LOBBYS',(data)=>{
+        console.log(data)
+      })
+
+      socket.on('LOBBY', function (data) {
+        console.log(data);
+      });
+      socket.on('ACTION', function (data) {
+        console.log(data);
+      });
+      socket.on('ALL LOBBYS', function (data) {
+        console.log(data);
+      });
+      socket.on('ALL PLAYERS', function (data) {
+        console.log(data);
+      });
+      socket.on('ERROR', function (data) {
+        console.log(data);
+      });

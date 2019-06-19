@@ -1,0 +1,1071 @@
+2019-02-25 15:08:42 [ api\app.js ] info: Express server listening on port 3001
+2019-02-25 15:16:31 [ routes\api.js ] debug: fdsf
+2019-02-25 15:16:37 [ routes\api.js ] debug: fdsf
+2019-02-25 15:17:07 [ routes\api.js ] debug: fdsf
+2019-02-25 15:17:07 [ lib\db.js ] info: undefined
+2019-02-25 15:18:13 [ routes\api.js ] debug: 
+2019-02-25 15:18:23 [ routes\api.js ] debug: hfhgf
+2019-02-25 15:18:23 [ lib\db.js ] info: undefined
+2019-02-25 15:19:42 [ routes\api.js ] debug: hfhgf
+2019-02-25 15:19:42 [ lib\db.js ] info: undefined
+2019-02-25 15:21:30 [ api\app.js ] info: Express server listening on port 3001
+2019-02-25 15:21:42 [ routes\api.js ] debug: 
+2019-02-25 15:37:48 [ routes\api.js ] debug: 
+2019-02-25 15:40:30 [ routes\api.js ] debug: 
+2019-02-25 15:40:37 [ routes\api.js ] debug: 
+2019-02-25 15:40:58 [ routes\api.js ] debug: 
+2019-02-25 16:01:53 [ routes\api.js ] debug: 
+2019-02-25 16:02:40 [ routes\api.js ] debug: 
+2019-02-25 16:16:32 [ routes\api.js ] debug: 
+2019-02-25 16:35:54 [ routes\api.js ] debug: 
+2019-02-25 16:36:54 [ routes\api.js ] debug: 
+2019-02-25 16:45:06 [ routes\api.js ] debug: 
+2019-02-25 16:46:01 [ routes\api.js ] debug: 
+2019-02-25 16:51:30 [ routes\api.js ] debug: 
+2019-02-25 16:52:53 [ routes\api.js ] debug: 
+2019-02-25 16:53:41 [ routes\api.js ] debug: 
+2019-02-25 16:53:51 [ routes\api.js ] debug: gfdg
+2019-02-25 17:51:52 [ routes\api.js ] debug: admin
+2019-02-25 17:54:28 [ routes\api.js ] debug: admin
+2019-02-25 18:12:02 [ routes\api.js ] debug: admin
+2019-02-25 18:27:49 [ routes\api.js ] debug: admin
+2019-02-25 18:27:49 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-02-25 18:28:20 [ routes\api.js ] debug: admin
+2019-02-25 18:45:42 [ api\app.js ] info: Express server listening on port 3001
+2019-02-25 18:45:51 [ routes\api.js ] error: undefined
+2019-02-25 18:48:03 [ routes\api.js ] error: undefined
+2019-02-25 18:48:03 [ routes\api.js ] error: undefined
+2019-02-25 18:48:24 [ api\app.js ] info: Express server listening on port 3001
+2019-02-25 20:14:06 [ api\app.js ] info: Express server listening on port 3001
+2019-02-25 21:25:50 [ api\app.js ] info: Express server listening on port 3001
+2019-02-26 13:22:09 [ api\app.js ] info: Express server listening on port 3001
+2019-02-27 14:55:05 [ api\app.js ] info: Express server listening on port 3001
+2019-02-27 14:57:23 [ routes\api.js ] debug: undefined
+2019-02-27 14:57:35 [ routes\api.js ] debug: admin
+2019-02-27 14:57:35 [ routes\api.js ] error: undefined
+2019-02-27 14:57:56 [ routes\api.js ] debug: admin
+2019-02-27 16:34:08 [ routes\api.js ] debug: admin
+2019-02-27 18:37:37 [ api\app.js ] info: Express server listening on port 3001
+2019-02-27 19:36:10 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 11:19:27 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 12:49:43 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 14:27:13 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 14:49:51 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 14:51:13 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 15:08:31 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 15:49:46 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 15:52:54 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 16:02:22 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 16:08:12 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 16:14:32 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 16:23:01 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 16:42:45 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 17:11:04 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 17:11:48 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 17:14:26 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 17:14:47 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 17:16:59 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 17:22:43 [ api\app.js ] info: Express server listening on port 3001
+2019-02-28 17:36:46 [ api\app.js ] info: Express server listening on port 3001
+2019-03-01 17:06:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-01 17:11:08 [ routes\api.js ] debug: undefined
+2019-03-01 17:11:22 [ routes\api.js ] debug: admin
+2019-03-01 17:11:22 [ routes\api.js ] error: undefined
+2019-03-01 17:12:02 [ routes\api.js ] debug: admin
+2019-03-01 17:12:02 [ routes\api.js ] error: undefined
+2019-03-01 17:17:58 [ routes\api.js ] debug: admin
+2019-03-01 17:17:58 [ routes\api.js ] error: undefined
+2019-03-01 17:19:53 [ routes\api.js ] debug: admin
+2019-03-01 17:19:53 [ routes\api.js ] error: undefined
+2019-03-01 17:24:42 [ routes\api.js ] debug: admin
+2019-03-01 17:24:42 [ routes\api.js ] error: undefined
+2019-03-01 17:25:45 [ routes\api.js ] debug: admin
+2019-03-02 11:59:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-02 12:06:48 [ routes\api.js ] debug: admin
+2019-03-02 12:11:48 [ routes\api.js ] debug: admin
+2019-03-02 12:14:23 [ routes\api.js ] debug: admin
+2019-03-02 12:15:26 [ routes\api.js ] debug: admin
+2019-03-02 12:19:02 [ routes\api.js ] debug: admin
+2019-03-02 12:27:01 [ routes\api.js ] debug: undefined
+2019-03-02 12:28:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-02 12:29:25 [ routes\api.js ] debug: undefined
+2019-03-02 12:29:37 [ routes\api.js ] debug: undefined
+2019-03-02 12:29:55 [ routes\api.js ] debug: undefined
+2019-03-02 12:34:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-02 12:34:11 [ routes\api.js ] debug: undefined
+2019-03-02 12:34:53 [ routes\api.js ] debug: admin
+2019-03-02 12:39:08 [ routes\api.js ] debug: admin
+2019-03-02 12:39:08 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-03-02 12:39:49 [ routes\api.js ] debug: admin
+2019-03-02 12:41:34 [ routes\api.js ] debug: admin
+2019-03-02 12:46:27 [ routes\api.js ] debug: admin
+2019-03-02 12:46:56 [ routes\api.js ] debug: admin
+2019-03-02 12:48:19 [ routes\api.js ] debug: admin
+2019-03-02 12:48:52 [ routes\api.js ] debug: admin
+2019-03-02 12:49:17 [ routes\api.js ] debug: admin
+2019-03-02 12:50:52 [ routes\api.js ] debug: admin
+2019-03-02 12:51:49 [ routes\api.js ] debug: admin
+2019-03-02 12:52:22 [ routes\api.js ] debug: admin
+2019-03-02 12:53:28 [ routes\api.js ] debug: admin
+2019-03-02 12:53:28 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-03-02 12:55:35 [ routes\api.js ] debug: admin
+2019-03-02 12:56:12 [ routes\api.js ] debug: admin
+2019-03-02 12:56:40 [ routes\api.js ] debug: admin
+2019-03-02 13:00:29 [ routes\api.js ] debug: admin
+2019-03-02 13:01:50 [ routes\api.js ] debug: admin
+2019-03-02 13:02:37 [ routes\api.js ] debug: admin
+2019-03-02 13:03:28 [ routes\api.js ] debug: admin
+2019-03-02 13:03:54 [ routes\api.js ] debug: admin
+2019-03-02 13:04:28 [ routes\api.js ] debug: admin
+2019-03-02 13:06:16 [ routes\api.js ] debug: admin
+2019-03-02 13:20:32 [ routes\api.js ] debug: admin
+2019-03-02 13:25:55 [ routes\api.js ] debug: admin
+2019-03-02 13:25:55 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-03-02 13:26:29 [ routes\api.js ] debug: admin
+2019-03-02 13:26:47 [ routes\api.js ] debug: admin
+2019-03-02 13:27:06 [ routes\api.js ] debug: undefined
+2019-03-02 13:28:14 [ routes\api.js ] debug: admin
+2019-03-02 13:31:17 [ routes\api.js ] debug: admin
+2019-03-02 13:52:28 [ routes\api.js ] debug: admin
+2019-03-02 15:10:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-02 15:29:16 [ api\app.js ] info: Express server listening on port 3001
+2019-03-02 15:57:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-02 16:07:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-02 17:46:46 [ routes\api.js ] debug: admin
+2019-03-02 19:15:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-03 14:00:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-03 15:39:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-04 12:22:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 12:09:41 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:17:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:19:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:23:02 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:24:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:27:16 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:31:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:36:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:50:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 17:56:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-05 18:53:25 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 12:32:05 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 13:08:36 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 13:27:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 13:28:54 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 13:32:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:01:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:03:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:08:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:14:48 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:19:14 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:21:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:46:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:49:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:54:17 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 14:58:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:00:06 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:03:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:07:49 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:11:48 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:14:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:17:27 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:17:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:24:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:25:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:31:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 15:32:18 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:15:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:19:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:21:28 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:25:05 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:27:33 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:39:13 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:43:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:49:39 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:55:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:56:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:57:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 16:59:06 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:01:19 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:07:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:20:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:22:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:25:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:26:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:28:13 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:29:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:31:17 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:32:39 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:33:46 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:35:25 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:36:48 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:37:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:41:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:43:13 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:45:29 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 17:46:39 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 18:03:48 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 18:04:51 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 18:15:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 18:26:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 18:42:19 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 18:45:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 18:47:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-06 18:56:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 13:34:33 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 15:41:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 15:42:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 15:43:02 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 15:46:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 15:50:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 15:55:11 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:00:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:03:31 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:05:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:06:36 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:06:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:07:23 [ routes\api.js ] debug: admin
+2019-03-07 16:07:24 [ routes\api.js ] error: undefined
+2019-03-07 16:08:49 [ routes\api.js ] debug: admin
+2019-03-07 16:10:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:12:25 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:17:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:19:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:20:09 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:21:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:23:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:23:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:38:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:38:42 [ routes\api.js ] debug: admin
+2019-03-07 16:39:06 [ routes\api.js ] debug: admin
+2019-03-07 16:42:35 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 16:42:45 [ routes\api.js ] debug: admin
+2019-03-07 17:11:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-07 17:12:06 [ routes\api.js ] debug: admin
+2019-03-07 17:12:06 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-03-07 17:12:12 [ routes\api.js ] debug: admin
+2019-03-08 10:27:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 10:34:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 10:39:06 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:04:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:24:35 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:25:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:31:02 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:32:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:34:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:36:18 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:39:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:41:27 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 11:43:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 12:58:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:00:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:04:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:06:31 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:07:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:11:13 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:15:50 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:20:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:21:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:24:03 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:29:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:31:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:32:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:34:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:35:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:36:28 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:36:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:37:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:41:49 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 13:58:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:01:17 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:11:03 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:14:18 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:15:28 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:15:38 [ routes\api.js ] debug: admin
+2019-03-08 14:17:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:29:54 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:37:28 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:43:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:45:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:53:18 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:53:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 14:58:36 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 15:23:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 15:24:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 15:25:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 15:26:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 15:26:30 [ routes\api.js ] debug: admin
+2019-03-08 17:20:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 17:20:50 [ routes\api.js ] debug: admin
+2019-03-08 17:24:45 [ routes\api.js ] debug: ceri
+2019-03-08 17:27:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 17:31:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 17:33:42 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 17:37:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 17:39:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 17:41:54 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 18:00:53 [ routes\api.js ] debug: ceri
+2019-03-08 18:09:25 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 18:10:06 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 18:28:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 18:30:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:20:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:24:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:26:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:26:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:29:41 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:30:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:31:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:31:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:34:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:35:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-08 23:37:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 11:53:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 12:06:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 12:06:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 12:09:29 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 12:30:39 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 13:43:18 [ routes\api.js ] debug: undefined
+2019-03-10 13:46:35 [ routes\api.js ] debug: cericeri
+2019-03-10 13:46:42 [ routes\api.js ] debug: ceri
+2019-03-10 14:07:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 14:12:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 14:21:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 14:31:50 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 14:35:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 14:36:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 14:36:41 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 14:40:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 14:50:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 15:11:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 16:16:35 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 16:37:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 18:14:29 [ api\app.js ] info: Express server listening on port 3001
+2019-03-10 18:17:17 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 12:06:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 12:31:31 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 12:32:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 12:32:47 [ routes\api.js ] debug: ceri
+2019-03-11 12:42:55 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 12:45:36 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 13:02:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 13:30:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 13:31:29 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 16:46:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 16:46:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 16:50:06 [ api\app.js ] info: Express server listening on port 3001
+2019-03-11 18:24:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 11:40:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 11:58:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 16:13:21 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 16:14:04 [ routes\api.js ] debug: ceri
+2019-03-12 16:14:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 16:14:57 [ routes\api.js ] debug: ceri
+2019-03-12 16:15:06 [ routes\api.js ] debug: ceri
+2019-03-12 16:15:13 [ routes\api.js ] debug: ceri
+2019-03-12 16:21:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 16:23:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 16:26:14 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 16:30:41 [ api\app.js ] info: Express server listening on port 3001
+2019-03-12 16:33:25 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 14:40:42 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 14:56:33 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:04:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:05:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:07:42 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:16:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:17:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:19:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:23:16 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:24:54 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:25:03 [ routes\api.js ] debug: admin
+2019-03-14 15:25:28 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:25:51 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:26:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:26:31 [ routes\api.js ] debug: admin
+2019-03-14 15:27:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:32:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:44:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:46:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:47:26 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:55:28 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:56:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 15:57:19 [ routes\api.js ] debug: ceri
+2019-03-14 16:43:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 16:47:35 [ api\app.js ] info: Express server listening on port 3001
+2019-03-14 16:47:51 [ routes\api.js ] debug: admin
+2019-03-14 17:24:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-15 14:57:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-15 20:13:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-15 20:52:50 [ api\app.js ] info: Express server listening on port 3001
+2019-03-15 20:53:12 [ api\app.js ] debug: game was started
+2019-03-15 20:56:35 [ api\app.js ] debug: game was started
+2019-03-15 21:06:50 [ api\app.js ] debug: game was started
+2019-03-15 21:09:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-15 21:19:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-15 21:23:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-15 21:28:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-15 21:40:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 12:09:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:08:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:23:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:25:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:26:50 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:31:21 [ api\app.js ] debug: game was started
+2019-03-17 13:31:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:36:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:37:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:40:26 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:42:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:47:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:48:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:50:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 13:53:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 14:01:54 [ api\app.js ] debug: game was started
+2019-03-17 14:03:09 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 14:20:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 14:21:16 [ routes\api.js ] debug: ceri
+2019-03-17 14:21:17 [ routes\api.js ] error: undefined
+2019-03-17 14:21:18 [ routes\api.js ] debug: ceri
+2019-03-17 14:21:19 [ routes\api.js ] error: undefined
+2019-03-17 14:21:21 [ routes\api.js ] debug: ceri
+2019-03-17 14:21:22 [ routes\api.js ] error: undefined
+2019-03-17 14:21:52 [ routes\api.js ] debug: ceri
+2019-03-17 15:08:05 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 15:58:11 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 15:59:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 16:03:03 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 16:50:09 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 16:52:45 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 16:53:51 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 16:58:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:01:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:04:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:06:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:07:48 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:12:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:19:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:21:18 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:22:50 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:23:46 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:26:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:27:25 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 17:28:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 18:21:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 18:29:39 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 18:35:09 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:00:51 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:04:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:08:14 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:09:02 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:10:25 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:11:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:12:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:14:33 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:30:42 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:33:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 19:44:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 20:59:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:07:16 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:08:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:09:19 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:11:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:12:46 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:14:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:17:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:18:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:19:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:21:27 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:27:46 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:28:17 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:30:26 [ api\app.js ] debug: game was started
+2019-03-17 21:31:48 [ api\app.js ] debug: game was started
+2019-03-17 21:34:02 [ api\app.js ] debug: game was started
+2019-03-17 21:37:29 [ api\app.js ] debug: game was started
+2019-03-17 21:37:56 [ api\app.js ] debug: game was started
+2019-03-17 21:42:18 [ api\app.js ] debug: game was started
+2019-03-17 21:43:22 [ api\app.js ] debug: game was started
+2019-03-17 21:51:43 [ api\app.js ] debug: game was started
+2019-03-17 21:52:31 [ api\app.js ] debug: game was started
+2019-03-17 21:53:53 [ api\app.js ] debug: game was started
+2019-03-17 21:54:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-17 21:56:38 [ api\app.js ] debug: game was started
+2019-03-17 21:58:18 [ api\app.js ] debug: game was started
+2019-03-18 13:22:19 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 13:58:28 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 14:00:16 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 14:02:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 14:09:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 14:17:09 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 14:17:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 14:20:57 [ api\app.js ] debug: game was started
+2019-03-18 14:21:19 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 14:52:36 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 14:54:42 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 15:43:05 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 15:44:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 15:46:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 15:51:02 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 15:55:13 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 15:58:26 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:00:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:03:35 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:05:26 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:05:41 [ routes\api.js ] debug: ceri
+2019-03-18 16:05:42 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-03-18 16:05:51 [ routes\api.js ] debug: ceri
+2019-03-18 16:09:36 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:11:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:16:30 [ api\app.js ] debug: game was started
+2019-03-18 16:16:41 [ api\app.js ] debug: game was started
+2019-03-18 16:16:53 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:23:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:37:51 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:40:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:42:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:43:33 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:45:06 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 16:47:13 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:06:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:12:41 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:15:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:19:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:30:49 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:34:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:36:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:40:43 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:43:29 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:45:16 [ routes\api.js ] debug: ceri
+2019-03-18 17:49:29 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:53:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:58:16 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 17:59:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:04:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:08:36 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:11:14 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:15:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:20:52 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:22:44 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:24:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:26:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:34:51 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 18:41:30 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 20:00:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 20:44:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 20:46:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 20:59:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 21:16:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 21:16:20 [ routes\api.js ] debug: admin
+2019-03-18 21:19:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-18 21:27:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 12:20:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 13:55:10 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 13:56:09 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 13:56:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 13:57:11 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 13:57:20 [ routes\api.js ] debug: ceri
+2019-03-19 14:06:19 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 16:12:34 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 16:59:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 17:02:13 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 17:15:33 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 18:52:34 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 21:10:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 21:41:41 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 22:08:36 [ api\app.js ] info: Express server listening on port 3001
+2019-03-19 22:19:55 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 11:23:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 11:35:10 [ routes\api.js ] debug: ceri
+2019-03-20 11:35:11 [ routes\api.js ] error: undefined
+2019-03-20 11:35:43 [ routes\api.js ] debug: ceri
+2019-03-20 11:54:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 12:16:34 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 13:24:54 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 13:34:54 [ routes\api.js ] debug: ceri
+2019-03-20 16:24:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 16:54:31 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 17:32:02 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 17:33:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-20 17:36:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-21 08:57:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-21 14:48:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-21 18:57:08 [ api\app.js ] info: Express server listening on port 3001
+2019-03-21 19:03:35 [ api\app.js ] info: Express server listening on port 3001
+2019-03-21 19:10:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-21 19:22:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-21 19:27:11 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 10:39:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 12:09:32 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 12:12:17 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 12:13:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 13:22:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 13:36:41 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 14:11:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 14:11:27 [ routes\api.js ] debug: ceri
+2019-03-22 14:18:25 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 14:21:06 [ api\app.js ] info: Express server listening on port 3001
+2019-03-22 14:28:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-23 15:33:59 [ api\app.js ] info: Express server listening on port 3001
+2019-03-23 16:17:00 [ routes\api.js ] debug: admin
+2019-03-23 16:34:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-23 17:31:33 [ api\app.js ] info: Express server listening on port 3001
+2019-03-23 18:01:51 [ api\app.js ] info: Express server listening on port 3001
+2019-03-23 20:47:27 [ api\app.js ] info: Express server listening on port 3001
+2019-03-23 21:29:09 [ api\app.js ] info: Express server listening on port 3001
+2019-03-23 21:29:32 [ routes\api.js ] debug: ceri
+2019-03-23 21:29:33 [ routes\api.js ] debug: ceri
+2019-03-24 10:17:37 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 10:31:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 10:31:43 [ routes\api.js ] debug: ceri
+2019-03-24 10:31:44 [ routes\api.js ] error: undefined
+2019-03-24 10:32:02 [ routes\api.js ] debug: ceri
+2019-03-24 10:40:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 10:49:14 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 11:02:19 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 13:36:05 [ routes\api.js ] debug: ceri
+2019-03-24 13:36:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 13:56:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 14:14:15 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 16:03:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 16:11:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 16:55:27 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:00:01 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:00:24 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:02:11 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:05:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:07:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:08:39 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:10:49 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:23:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:24:40 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:25:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 17:56:06 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 18:46:26 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 18:46:35 [ routes\api.js ] debug: ceri
+2019-03-24 18:46:36 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-03-24 18:46:42 [ routes\api.js ] debug: ceri
+2019-03-24 18:55:35 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 18:58:48 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 18:59:55 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 19:05:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 19:05:39 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 19:07:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 19:12:35 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 19:22:19 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 19:26:12 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 19:30:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-24 19:32:26 [ api\app.js ] info: Express server listening on port 3001
+2019-03-25 14:04:48 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 11:48:38 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 15:47:36 [ routes\api.js ] debug: ceri
+2019-03-26 15:47:37 [ routes\api.js ] error: undefined
+2019-03-26 15:47:38 [ routes\api.js ] debug: ceri
+2019-03-26 15:47:39 [ routes\api.js ] error: undefined
+2019-03-26 15:48:04 [ routes\api.js ] debug: ceri
+2019-03-26 15:57:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 16:02:23 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 16:08:00 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 16:32:27 [ routes\api.js ] debug: ceri
+2019-03-26 16:42:47 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 16:54:23 [ routes\api.js ] debug: qwe
+2019-03-26 16:54:48 [ routes\api.js ] debug: qweqwe
+2019-03-26 16:54:57 [ routes\api.js ] debug: ceri
+2019-03-26 18:39:57 [ routes\api.js ] debug: zxczxc
+2019-03-26 18:50:42 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 18:55:07 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 19:22:57 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 19:28:02 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 19:36:46 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 20:27:04 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 20:47:20 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 20:57:56 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 21:20:27 [ api\app.js ] info: Express server listening on port 3001
+2019-03-26 21:20:29 [ routes\api.js ] debug: ceri
+2019-03-26 21:20:30 [ routes\api.js ] error: undefined
+2019-03-26 21:21:04 [ routes\api.js ] debug: ceri
+2019-03-27 12:52:58 [ api\app.js ] info: Express server listening on port 3001
+2019-03-27 14:39:47 [ routes\api.js ] debug: ceri
+2019-03-27 14:51:01 [ routes\api.js ] debug: cvbcvb
+2019-03-27 14:51:27 [ api\app.js ] info: Express server listening on port 3001
+2019-03-28 09:19:22 [ api\app.js ] info: Express server listening on port 3001
+2019-03-29 17:31:22 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 10:15:58 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 15:59:01 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 15:59:53 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:00:00 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:02:34 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:03:37 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:04:30 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:06:00 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:10:02 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:17:36 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:17:57 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:18:23 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:18:45 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:19:36 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 16:47:23 [ routes\api.js ] debug: admin
+2019-04-01 16:50:11 [ routes\api.js ] debug: admin
+2019-04-01 16:50:11 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-04-01 16:50:21 [ routes\api.js ] debug: admin
+2019-04-01 16:54:26 [ routes\api.js ] debug: admin
+2019-04-01 17:04:08 [ routes\api.js ] debug: admin
+2019-04-01 17:58:19 [ routes\api.js ] debug: admin
+2019-04-01 18:01:23 [ routes\api.js ] debug: admin
+2019-04-01 18:03:42 [ routes\api.js ] debug: admin
+2019-04-01 18:04:47 [ routes\api.js ] debug: admin
+2019-04-01 18:11:27 [ routes\api.js ] debug: admin
+2019-04-01 18:12:12 [ routes\api.js ] debug: admin
+2019-04-01 18:13:06 [ routes\api.js ] debug: admin
+2019-04-01 18:14:11 [ routes\api.js ] debug: admin
+2019-04-01 18:14:11 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-04-01 18:14:21 [ routes\api.js ] debug: admin
+2019-04-01 18:19:32 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 18:19:58 [ routes\api.js ] debug: admin
+2019-04-01 18:21:55 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 18:22:16 [ routes\api.js ] debug: admin
+2019-04-01 18:23:55 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 18:24:16 [ routes\api.js ] debug: admin
+2019-04-01 18:25:33 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 18:25:43 [ routes\api.js ] debug: admin
+2019-04-01 18:29:36 [ api\app.js ] info: Express server listening on port 3001
+2019-04-01 18:29:40 [ routes\api.js ] debug: admin
+2019-04-01 18:35:57 [ routes\api.js ] debug: admin
+2019-04-01 18:38:47 [ routes\api.js ] debug: admin
+2019-04-01 18:41:05 [ routes\api.js ] debug: admin
+2019-04-01 18:41:55 [ routes\api.js ] debug: admin
+2019-04-01 18:47:27 [ routes\api.js ] debug: admin
+2019-04-01 18:47:27 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-04-01 18:47:29 [ routes\api.js ] debug: admin
+2019-04-01 18:51:21 [ routes\api.js ] debug: admin
+2019-04-01 18:58:19 [ routes\api.js ] debug: admin
+2019-04-01 18:58:58 [ routes\api.js ] debug: admin
+2019-04-01 19:00:27 [ routes\api.js ] debug: admin
+2019-04-01 19:04:19 [ routes\api.js ] debug: admin
+2019-04-01 19:04:43 [ routes\api.js ] debug: admin
+2019-04-02 09:42:52 [ api\app.js ] info: Express server listening on port 3001
+2019-04-02 13:44:54 [ routes\api.js ] debug: admin
+2019-04-02 13:49:07 [ routes\api.js ] debug: admin
+2019-04-02 14:13:38 [ routes\api.js ] debug: admin
+2019-04-02 14:22:12 [ routes\api.js ] debug: admin
+2019-04-02 14:22:13 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-04-02 14:22:21 [ routes\api.js ] debug: admin
+2019-04-02 14:24:03 [ routes\api.js ] debug: admin
+2019-04-02 14:56:54 [ routes\api.js ] debug: admin
+2019-04-02 15:00:45 [ routes\api.js ] debug: admin
+2019-04-02 17:49:00 [ routes\api.js ] debug: 
+2019-04-02 17:50:06 [ routes\api.js ] debug: 
+2019-04-02 18:11:52 [ routes\api.js ] debug: admin
+2019-04-02 18:25:11 [ routes\api.js ] debug: admin
+2019-04-03 13:31:47 [ api\app.js ] info: Express server listening on port 3001
+2019-04-03 14:58:55 [ routes\api.js ] debug: admin
+2019-04-03 14:58:56 [ routes\api.js ] error: undefined
+2019-04-03 14:59:57 [ routes\api.js ] debug: admin
+2019-04-03 15:41:46 [ routes\api.js ] debug: admin
+2019-04-03 16:25:58 [ routes\api.js ] debug: admin
+2019-04-03 18:15:46 [ routes\api.js ] debug: admin
+2019-04-03 18:17:19 [ api\app.js ] info: Express server listening on port 3001
+2019-04-03 18:19:32 [ api\app.js ] info: Express server listening on port 3001
+2019-04-03 18:19:54 [ routes\api.js ] debug: admin
+2019-04-03 18:19:54 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-04-03 18:19:57 [ routes\api.js ] debug: 
+2019-04-03 18:20:08 [ routes\api.js ] debug: admin
+2019-04-03 18:25:22 [ api\app.js ] info: Express server listening on port 3001
+2019-04-03 18:25:29 [ routes\api.js ] debug: admin
+2019-04-03 18:33:16 [ api\app.js ] info: Express server listening on port 3001
+2019-04-03 18:33:33 [ routes\api.js ] debug: admin
+2019-04-03 18:38:30 [ routes\api.js ] debug: admin
+2019-04-03 18:39:58 [ routes\api.js ] debug: admin
+2019-04-03 18:40:04 [ routes\api.js ] debug: admin
+2019-04-03 19:25:40 [ routes\api.js ] debug: admin
+2019-04-03 19:26:50 [ routes\api.js ] debug: ceri
+2019-04-03 19:54:24 [ routes\api.js ] debug: admin
+2019-04-03 20:50:33 [ routes\api.js ] debug: admin
+2019-04-04 12:58:22 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 13:40:05 [ routes\api.js ] debug: admin
+2019-04-04 13:40:06 [ routes\api.js ] error: undefined
+2019-04-04 13:40:10 [ routes\api.js ] debug: admin
+2019-04-04 13:40:10 [ routes\api.js ] debug: admin
+2019-04-04 13:40:10 [ routes\api.js ] debug: admin
+2019-04-04 13:40:10 [ routes\api.js ] debug: admin
+2019-04-04 13:40:11 [ routes\api.js ] error: undefined
+2019-04-04 13:40:11 [ routes\api.js ] error: undefined
+2019-04-04 13:40:11 [ routes\api.js ] error: undefined
+2019-04-04 13:40:11 [ routes\api.js ] error: undefined
+2019-04-04 13:40:30 [ routes\api.js ] debug: admin
+2019-04-04 13:40:31 [ routes\api.js ] error: undefined
+2019-04-04 13:41:23 [ routes\api.js ] debug: admin
+2019-04-04 13:54:20 [ routes\api.js ] debug: admin
+2019-04-04 13:54:21 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-04-04 13:54:27 [ routes\api.js ] debug: admin
+2019-04-04 14:26:54 [ routes\api.js ] debug: ceri
+2019-04-04 14:39:31 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 14:41:31 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 14:52:16 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 16:34:43 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 16:57:43 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 17:18:11 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 17:21:16 [ routes\api.js ] debug: ceri
+2019-04-04 17:21:17 [ routes\api.js ] error: undefined
+2019-04-04 17:21:18 [ routes\api.js ] debug: ceri
+2019-04-04 17:21:19 [ routes\api.js ] error: undefined
+2019-04-04 17:21:23 [ routes\api.js ] debug: ceri
+2019-04-04 17:21:24 [ routes\api.js ] error: undefined
+2019-04-04 17:21:30 [ routes\api.js ] debug: ceri
+2019-04-04 17:21:31 [ routes\api.js ] error: undefined
+2019-04-04 17:21:54 [ routes\api.js ] debug: ceri
+2019-04-04 17:48:27 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 18:02:45 [ routes\api.js ] debug: admin
+2019-04-04 18:05:38 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 18:08:57 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 18:14:46 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 18:25:08 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 19:16:20 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 19:18:13 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 19:19:21 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 19:19:58 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 19:23:31 [ api\app.js ] info: Express server listening on port 3001
+2019-04-04 20:05:30 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 09:26:39 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 10:18:25 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 11:26:42 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 14:29:23 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 15:13:38 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 15:54:14 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 16:07:15 [ routes\api.js ] debug: ceri
+2019-04-05 16:18:18 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 16:31:20 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 17:37:45 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 17:41:19 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 17:46:14 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 17:56:17 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 17:57:49 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:05:02 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:12:01 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:13:54 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:16:55 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:17:59 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:28:03 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:28:55 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:33:57 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 18:35:42 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 20:03:59 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 20:04:06 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 20:04:35 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 20:06:50 [ api\app.js ] info: Express server listening on port 3001
+2019-04-05 20:14:22 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 12:47:41 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 14:43:47 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 15:06:30 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 18:29:58 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 18:36:16 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 18:55:48 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 19:18:51 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 19:25:37 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 19:44:44 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 20:02:33 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 20:10:48 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 20:16:54 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 20:23:35 [ routes\api.js ] debug: ceri
+2019-04-06 20:23:38 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-04-06 20:23:41 [ routes\api.js ] debug: ceri
+2019-04-06 20:23:57 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 20:46:39 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 21:09:20 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 21:11:49 [ api\app.js ] info: Express server listening on port 3001
+2019-04-06 22:09:34 [ api\app.js ] info: Express server listening on port 3001
+2019-04-07 10:14:19 [ api\app.js ] info: Express server listening on port 3001
+2019-04-07 14:29:11 [ api\app.js ] info: Express server listening on port 3001
+2019-04-07 16:07:04 [ api\app.js ] info: Express server listening on port 3001
+2019-04-07 16:13:47 [ api\app.js ] info: Express server listening on port 3001
+2019-04-07 16:57:40 [ api\app.js ] info: Express server listening on port 3001
+2019-04-07 18:25:03 [ api\app.js ] info: Express server listening on port 3001
+2019-04-07 21:30:08 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 13:16:31 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 13:41:48 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 13:44:29 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 15:22:27 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 15:25:50 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 15:37:28 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 15:50:31 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 15:58:47 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 16:15:15 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 16:22:40 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 16:32:32 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 16:59:33 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 17:19:37 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 17:44:28 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 17:47:44 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 17:55:07 [ api\app.js ] info: Express server listening on port 3001
+2019-04-08 18:13:12 [ api\app.js ] info: Express server listening on port 3001
+2019-04-09 12:04:58 [ api\app.js ] info: Express server listening on port 3001
+2019-04-09 13:16:45 [ api\app.js ] info: Express server listening on port 3001
+2019-04-09 16:04:49 [ routes\api.js ] debug: ceri
+2019-04-09 16:04:50 [ routes\api.js ] error: undefined
+2019-04-09 16:05:14 [ routes\api.js ] debug: ceri
+2019-04-09 16:06:10 [ api\app.js ] info: Express server listening on port 3001
+2019-04-09 16:30:36 [ api\app.js ] info: Express server listening on port 3001
+2019-04-09 16:30:58 [ api\app.js ] info: Express server listening on port 3001
+2019-04-09 17:00:26 [ api\app.js ] info: Express server listening on port 3001
+2019-04-27 10:54:33 [ api\app.js ] info: Express server listening on port 3001
+2019-04-27 11:01:51 [ routes\api.js ] debug: ceri
+2019-04-27 11:01:52 [ routes\api.js ] error: undefined
+2019-04-27 11:02:29 [ routes\api.js ] debug: ceri
+2019-04-27 11:11:15 [ api\app.js ] info: Express server listening on port 3001
+2019-06-18 13:28:40 [ api\app.js ] info: Express server listening on port 3001
+2019-06-18 13:44:19 [ api\app.js ] info: Express server listening on port 3001
+2019-06-18 13:52:14 [ api\app.js ] info: Express server listening on port 3001
+2019-06-18 14:02:44 [ routes\api.js ] debug: 321321
+2019-06-18 14:19:16 [ routes\api.js ] debug: 321321
+2019-06-18 14:28:31 [ routes\api.js ] debug: 321321
+2019-06-18 14:34:17 [ routes\api.js ] debug: 321321
+2019-06-18 14:35:23 [ routes\api.js ] debug: 321321
+2019-06-18 14:36:25 [ routes\api.js ] debug: 321321
+2019-06-18 14:37:26 [ routes\api.js ] debug: 321321
+2019-06-18 14:38:29 [ routes\api.js ] debug: 321321
+2019-06-18 14:41:47 [ routes\api.js ] debug: 321321
+2019-06-18 14:42:45 [ routes\api.js ] debug: 321321
+2019-06-18 14:43:43 [ routes\api.js ] debug: 321321
+2019-06-18 14:43:43 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-06-18 14:43:49 [ routes\api.js ] debug: 321321
+2019-06-18 14:45:16 [ routes\api.js ] debug: 321321
+2019-06-18 14:54:14 [ routes\api.js ] debug: 321321
+2019-06-18 14:56:30 [ routes\api.js ] debug: 321321
+2019-06-18 14:57:56 [ routes\api.js ] debug: 321321
+2019-06-18 14:58:13 [ routes\api.js ] debug: 321321
+2019-06-18 14:58:18 [ routes\api.js ] debug: 321321
+2019-06-18 14:58:18 [ routes\api.js ] debug: 321321
+2019-06-18 14:58:26 [ routes\api.js ] debug: 3213123132
+2019-06-18 14:58:27 [ routes\api.js ] debug: 3213123132
+2019-06-18 14:58:28 [ routes\api.js ] debug: 3213123132
+2019-06-18 15:55:29 [ routes\api.js ] debug: 321321
+2019-06-18 17:53:24 [ routes\api.js ] debug: 321321
+2019-06-18 18:32:00 [ routes\api.js ] debug: 321321
+2019-06-18 18:32:10 [ routes\api.js ] debug: 321321
+2019-06-18 18:33:04 [ routes\api.js ] debug: 321321
+2019-06-18 18:39:47 [ routes\api.js ] debug: 321321
+2019-06-18 18:39:47 [ routes\api.js ] debug: TOO_MANY_TOKENS
+2019-06-18 18:39:57 [ routes\api.js ] debug: 321321
+2019-06-18 18:43:31 [ routes\api.js ] debug: 321321
+2019-06-18 21:01:40 [ routes\api.js ] debug: 321321
+2019-06-19 10:48:20 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 11:54:09 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 11:58:02 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 11:59:15 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 11:59:52 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 15:45:52 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 15:48:53 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 15:49:43 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 15:50:35 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 15:51:18 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 15:53:50 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 15:54:36 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:01:58 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:03:10 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:03:48 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:06:02 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:06:36 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:06:37 [ routes\api.js ] debug: undefined
+2019-06-19 16:09:10 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:09:12 [ routes\api.js ] debug: undefined
+2019-06-19 16:10:20 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:10:22 [ routes\api.js ] debug: undefined
+2019-06-19 16:11:00 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:11:04 [ routes\api.js ] debug: undefined
+2019-06-19 16:12:20 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:12:22 [ routes\api.js ] debug: undefined
+2019-06-19 16:18:06 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:18:09 [ routes\api.js ] debug: undefined
+2019-06-19 16:19:13 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:19:16 [ routes\api.js ] debug: undefined
+2019-06-19 16:22:13 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:22:14 [ routes\api.js ] debug: undefined
+2019-06-19 16:23:41 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:23:42 [ routes\api.js ] debug: undefined
+2019-06-19 16:24:11 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:24:14 [ routes\api.js ] debug: undefined
+2019-06-19 16:24:35 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:24:36 [ routes\api.js ] debug: undefined
+2019-06-19 16:24:51 [ routes\api.js ] debug: undefined
+2019-06-19 16:26:02 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:26:05 [ routes\api.js ] debug: undefined
+2019-06-19 16:27:06 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:27:08 [ routes\api.js ] debug: undefined
+2019-06-19 16:29:31 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:29:32 [ routes\api.js ] debug: undefined
+2019-06-19 16:30:31 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:30:32 [ routes\api.js ] debug: undefined
+2019-06-19 16:33:01 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:33:04 [ routes\api.js ] debug: undefined
+2019-06-19 16:40:54 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:40:56 [ routes\api.js ] debug: undefined
+2019-06-19 16:41:39 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:41:42 [ routes\api.js ] debug: undefined
+2019-06-19 16:42:17 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:42:19 [ routes\api.js ] debug: undefined
+2019-06-19 16:43:46 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:43:49 [ routes\api.js ] debug: undefined
+2019-06-19 16:44:48 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:44:53 [ routes\api.js ] debug: undefined
+2019-06-19 16:46:24 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:46:25 [ routes\api.js ] debug: undefined
+2019-06-19 16:48:01 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:48:02 [ routes\api.js ] debug: undefined
+2019-06-19 16:49:12 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:49:15 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:20 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 16:51:21 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:23 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:23 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:24 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:25 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:26 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:26 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:27 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:28 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:29 [ routes\api.js ] debug: undefined
+2019-06-19 16:51:29 [ routes\api.js ] debug: undefined
+2019-06-19 16:54:26 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 17:00:14 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 17:14:55 [ routes\api.js ] debug: ceri
+2019-06-19 17:15:02 [ routes\api.js ] debug: ceri
+2019-06-19 17:15:39 [ routes\api.js ] debug: ceri
+2019-06-19 17:26:50 [ routes\api.js ] debug: 321321
+2019-06-19 20:20:41 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:20:58 [ routes\api.js ] debug: undefined
+2019-06-19 20:21:07 [ routes\api.js ] debug: undefined
+2019-06-19 20:22:08 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:33:19 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:35:21 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:36:46 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:39:08 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:42:29 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:42:39 [ routes\api.js ] debug: undefined
+2019-06-19 20:43:47 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:43:49 [ routes\api.js ] debug: undefined
+2019-06-19 20:43:58 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:43:59 [ routes\api.js ] debug: undefined
+2019-06-19 20:44:20 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:44:24 [ routes\api.js ] debug: undefined
+2019-06-19 20:45:47 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 20:45:59 [ routes\api.js ] debug: undefined
+2019-06-19 20:56:17 [ routes\api.js ] debug: undefined
+2019-06-19 21:05:04 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:05:06 [ routes\api.js ] debug: undefined
+2019-06-19 21:05:30 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:05:33 [ routes\api.js ] debug: undefined
+2019-06-19 21:05:55 [ routes\api.js ] debug: undefined
+2019-06-19 21:06:36 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:06:41 [ routes\api.js ] debug: undefined
+2019-06-19 21:07:35 [ routes\api.js ] debug: undefined
+2019-06-19 21:08:25 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:09:25 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:13:57 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:19:06 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:20:47 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:21:19 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:22:40 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:32:32 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:57:01 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 21:58:03 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 22:02:02 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 22:02:18 [ api\app.js ] info: Express server listening on port 3001
+2019-06-19 22:02:41 [ api\app.js ] info: Express server listening on port 3001

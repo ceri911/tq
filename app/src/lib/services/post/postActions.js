@@ -1,0 +1,4 @@
+export default {
+    SET_CURRENT_POSTS: 'SET_CURRENT_POSTS'
+    , GET_ERRORS_POST: 'GET_ERRORS_POST'
+};
